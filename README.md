@@ -4,6 +4,10 @@ A highly optimized, realistic, and highly customizable temperature and weather s
 
 Developed by **Noraith Mods**.
 
+  [![Tebex'ten Satın Al](https://img.shields.io/badge/Tebex-Satın_Al-blue?style=for-the-badge)](https://noraithmods.tebex.io/package/temperature)
+  
+  [![YouTube Tanıtımı](https://img.shields.io/badge/YouTube-Videoyu_İzle-red?style=for-the-badge)](https://www.youtube.com/watch?v=StLpKi_DxCI)
+
 ---
 
 ## ✨ Key Features
